@@ -19,6 +19,10 @@ body{text-align: center;}
   font-size: 17px;
 }
 
+li::marker {
+    color: white
+}
+
 .topnav a:hover {
      animation-name:rainbowloop;
 animation-duration:5s;
